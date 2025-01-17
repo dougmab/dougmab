@@ -1,60 +1,48 @@
-# 👋 Welcome!
-
-![Starry Night Banner](./starry.png)
-
-## 🪪 About me:
-
-```json
-{
-  "name": "Douglas Brum",
-  "description": "Software Developer | Cat Enjoyer",
-  "location": "Brazil",
-  "interests": ["Backend Development", "Computer Science", "Sci-fi"]
-}
-```
-
-## 💻 Technologies
-
-### Languages
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Front-end
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Back-end
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Interests
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
-
-<br>
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.mateus2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doug-brum/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DougdotBin)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=628DD8" width="100%" alt="">
+
+# 👋 About Me:
+
+I'm a Computer Science student and Full-Stack developer with a focus on Back-end projects. Currently interested in low-level systems and always eager to learn more. If you'd like to collaborate on a project or just chat, feel free to reach out to me on my social media!
+
+### Connect with me!
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:douglla.brum@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doug-brum/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/dougmab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dougmab)
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/dougmab)
+
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,java)](https://skillicons.dev) <!-- Languages -->
+[![My Skills](https://skillicons.dev/icons?i=sass,react,next,tailwindcss)](https://skillicons.dev) <!-- Front-end -->
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,express)](https://skillicons.dev) <!-- Back-end -->
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev) <!-- Database -->
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,aws)](https://skillicons.dev) <!-- Tools and others -->
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,linux,postman)](https://skillicons.dev) <!-- Workspace -->
+
+## 🔭 Currently interested in:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,nest,kubernetes,rabbitmq,kafka)](https://skillicons.dev)
+
+### GitHub Stats:
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dougmab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Github's Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougmab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Github's Top Langs" height="165" />
+</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dougmab&theme=tokyonight&hide_border=true" alt="" />
+
+### GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=dougmab&rank=-?&theme=tokyonight&no-frame=true&no-bg=false&column=5)
+
+<br/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=dougmab&color=628DD8)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=628DD8&section=footer&reversal=true" width="100%" alt="">
 
 </div>
